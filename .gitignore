@@ -142,3 +142,4 @@ cython_debug/
 .DS_Store
 *.zip
 *.gz
+with_vendors_added.feather
